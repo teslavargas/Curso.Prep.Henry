@@ -1,0 +1,4 @@
+for: Es un bucle que se usa una o más instrucciones un número determinado de veces. 
+&&: Significa "Y" y se usa para agregar más condiciones. 
+||: significa "o" y se usa para que se cumpla una o de lo contrario, otra condición
+!: Es una negación y cambia el valor de lo que lo sucede. 
