@@ -1,0 +1,5 @@
+Variables: Es una herramienta que nos ayuda a guardar y hacer referencia a distintos valores. 
+Strings: Es una cadena de caracteres, generalmente texto, de la cual podemos tanto extraer partes como concatenarlas a otra cosa.  
+Funciones (argumentos, `return`): Es lo que se usa para realizar tareas específicas. 
+Declaraciones `if`: Condiciones que se tienen que cumplir para que se ejecute el código. 
+Valores booleanos (`true`, `false`): Tienen una lógica binaria y pueden representar valores falsos como verdaderos. 
