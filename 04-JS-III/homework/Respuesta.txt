@@ -1,0 +1,1 @@
+Array: Es una lista ordenada de elementos. 
