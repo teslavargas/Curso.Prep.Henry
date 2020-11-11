@@ -1,0 +1,5 @@
+Objetos: Es una colección de propiedades
+Propiedades: Es la asociación de entre un nombre y un valor. 
+Método: Es una función que sirve para realizar una acción determinada. 
+Bucle for in: Iterar sobre las propiedades de un objeto. 
+Notacion punto vs notacion corchete: Son dos formas de acceder a una propiedad de un objeto.      
