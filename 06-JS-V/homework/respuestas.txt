@@ -1,0 +1,2 @@
+prototype: Es la referencia que tiene un objeto de otro objeto. 
+Clase: es una plantilla que nos facilita el trabajo a la hora de crear nuevos objetos. 
