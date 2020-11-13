@@ -12,12 +12,12 @@
     </td>
   </tr>
 </table>
-# Lección 9: CSS Intermedio
+# Lección 9: CSS Intermedio 
 
 En esta lección cubriremos:
 
 * Introducción al posicionamiento.
-* Propiedad "display".
+* Propiedad "display". 
 * Propiedad "position".
 * Usar "position" para posicionar elementos.
 * Introducción a Flexbox.
